@@ -8,6 +8,7 @@ public class Dsa360ApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Dsa360ApiApplication.class, args);
+		System.out.println("started");
 	}
 
 }
